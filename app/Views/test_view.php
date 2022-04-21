@@ -9,5 +9,6 @@
 <body>
     <h1><?= $msg1; ?></h1>
     <h2><?= $msg2; ?></h2>
+    <h2>test</h2>
 </body>
 </html>
