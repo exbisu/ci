@@ -18,5 +18,8 @@
             <li class="nav-item">
                 <a class="nav-link" href="<?= base_url('Pages/Contact') ?>">CONTACT</a>
             </li>
+                <li class="nav-item">
+                <a class="nav-link" href="<?= base_url('Table') ?>">Table</a>
+            </li>
         </div>
     </nav>

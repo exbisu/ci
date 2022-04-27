@@ -34,6 +34,7 @@ $routes->setAutoRoute(true);
 // $routes->get('/', 'Home::index');
 // $routes->get('/','admin\User::index');
 $routes->get('/','Pages::index');
+$routes->get('/Table/(:segment)','Table::detail/$1');
 //router->get atau post delete add ('url','folder controler')
 /*
  * --------------------------------------------------------------------

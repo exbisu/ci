@@ -32,4 +32,5 @@ class Pages extends BaseController
      ];
         return view('Pages/Paket',$data);
     }
+
 }

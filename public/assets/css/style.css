@@ -1,20 +1,25 @@
 body {
-    background-color: aliceblue;
+  background-color: aliceblue;
 }
-
-
 
 .pilih {
-    padding: 30px;
+  padding: 30px;
 }
-  .footer{
-    list-style-type: none;
-    margin: 0;
-    padding: 20px;
-    overflow: hidden;
-    background-color: gray;
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-  }
+.footer {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+  overflow: hidden;
+  background-color: gray;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
 
+.imgTa {
+  width: 90px;
+}
+
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
