@@ -38,6 +38,14 @@ class Table extends BaseController
         return view('Pages/detail',$data);
 
     }
+    public function add(){
+
+             $data = [
+         'title' => 'ADD || TravelP'
+     ];
+        return view('Pages/add',$data);
+
+    }
 
     
 }

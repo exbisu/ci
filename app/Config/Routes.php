@@ -34,7 +34,11 @@ $routes->setAutoRoute(true);
 // $routes->get('/', 'Home::index');
 // $routes->get('/','admin\User::index');
 $routes->get('/','Pages::index');
+$routes->get('/aboutus','Pages::AboutUs');
+$routes->get('/contact','Pages::Contact');
+$routes->get('/paket','Pages::Paket');
 $routes->get('/Table/(:segment)','Table::detail/$1');
+$routes->get('/add','Table::add');
 //router->get atau post delete add ('url','folder controler')
 /*
  * --------------------------------------------------------------------

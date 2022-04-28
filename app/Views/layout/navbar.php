@@ -10,15 +10,15 @@
                 <a class="nav-link" href="<?= base_url('/') ?>">HOME </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="<?= base_url('Pages/AboutUs') ?>">ABOUT US</a>
+                <a class="nav-link" href="<?= base_url('/aboutus') ?>">ABOUT US</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="<?= base_url('Pages/Paket') ?>">PAKET TRAVEL <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="<?= base_url('/paket') ?>">PAKET TRAVEL <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="<?= base_url('Pages/Contact') ?>">CONTACT</a>
+                <a class="nav-link" href="<?= base_url('/contact') ?>">CONTACT</a>
             </li>
-                <li class="nav-item">
+                  <li class="nav-item">
                 <a class="nav-link" href="<?= base_url('Table') ?>">Table</a>
             </li>
         </div>

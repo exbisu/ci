@@ -29,14 +29,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h4><a href="contact.html">Contact</a></h4>
+                    <h4><a href="/contact">Contact</a></h4>
                     <p>Nomer Telfon : +628319231209</p>
                     <p>Alamat Email :  TravelP@blablabla.com</p>
                     <p>Alamat :</p>
                     <a href="https://goo.gl/maps/w8a1x5s8n1Ykr8bf8">Jl. Raya Puputan No.86, Dangin Puri Klod, Kec. Denpasar Tim., Kota Denpasar, Bali 80234</a>
                 </div>
                 <div class="col-md-6">
-                    <h4><a href="aboutUs.html">About Us</a></h4>
+                    <h4><a href="/aboutus">About Us</a></h4>
                     <p>kami adlah agensi travel lintas dimensi dijamin puas dan senang dan jangan lupa memberi bintang 5 yaa terimakasih </p>
                 </div>
             </div>

@@ -27,7 +27,7 @@
   </tbody>
 
 </table>
-    
+    <a href="/add" class="btn btn-primary">Add Data</a>
 
 
 <?= $this->endSection('');?>
